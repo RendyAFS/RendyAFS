@@ -7,9 +7,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information System at the Telmom University Surabaya.\
-🌱 &nbsp;I'm learning more about Artificial Intelligence, System Design, and Cloud Architecture but haven't mastered it yet.\
-✉️ &nbsp;You can shoot me an email I'll try to respond as soon as I can.\
+💡 &nbsp;I'm a junior developer who loves exploring new technologies and building software solutions or quick hacks.\
+🎓 &nbsp;I'm currently studying Information System at Telkom University Surabaya.\
+🌱 &nbsp;I'm focusing on web development using the Laravel framework, but I'm also open to mobile development and learning other technologies.\
+✉️ &nbsp;You can shoot me an email — I'll try to respond as soon as I can.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rendyafs&show_icons=true&theme=gotham" alt="rendyafs" />
