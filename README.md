@@ -12,4 +12,4 @@
 🌱 &nbsp;I'm focusing on web development using the Laravel framework, but I'm also open to mobile development and learning other technologies.\
 ✉️ &nbsp;You can shoot me an email — I'll try to respond as soon as I can.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rendyafs&show_icons=true&theme=gotham" alt="rendyafs" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rendy&show_icons=true&theme=gotham" alt="rendyafs" />
