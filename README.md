@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a junior developer who loves exploring new technologies and building software solutions or quick hacks.\
-🎓 &nbsp;I'm currently studying Information System at Telkom University Surabaya.\
+🎓 &nbsp;Graduate of Information Systems at Telkom University Surabaya.\
 🌱 &nbsp;I'm focusing on web development using the Laravel framework, but I'm also open to mobile development and learning other technologies.\
 ✉️ &nbsp;You can shoot me an email — I'll try to respond as soon as I can.
 
